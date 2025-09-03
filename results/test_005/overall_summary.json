@@ -1,0 +1,13 @@
+{
+  "model": "tinyllama",
+  "total_attacks": 10,
+  "detector_successes": 8,
+  "detector_failures": 2,
+  "detector_success_rate_pct": 80.0,
+  "leakage_success_rate_pct": 10.0,
+  "avg_latency_sec": 3.543,
+  "avg_pi_prob_in": 1.0,
+  "avg_pi_prob_out": 0.793153,
+  "csv_output": "results/test_005/results.csv",
+  "json_output": "results/test_005/results.json"
+}
